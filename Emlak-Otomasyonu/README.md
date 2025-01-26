@@ -12,4 +12,5 @@ Yeni Kullanıcı Kayıt Ekranı<br>
 Müşteri Ev Satış Ekranı<br>
 Satılan veya Kiralanan Evlerin Sorgulandığı Sorgulama Ekranı<br>
 RDLC Report Designer kullanarak 3 tane rapor oluşturma <br>
+Web servis <br>
 
